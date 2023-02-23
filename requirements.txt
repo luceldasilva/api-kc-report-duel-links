@@ -1,0 +1,5 @@
+fastapi
+pytz
+python-decouple
+pymongo
+python-multipart
