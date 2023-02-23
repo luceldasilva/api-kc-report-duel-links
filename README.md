@@ -1,10 +1,10 @@
 # Api de Recolección de Mazos
 
-![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+[![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org/downloads/) [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org) [![](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](https://fastapi.tiangolo.com/es/) [![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com)
 
 
 ## Objetivo 👈
-Hacer una api para mostrar una base de datos NoSQL y poder manipularlo para análisis sobre mazos usados por la comunidad hispanohablante en el videojuego Yu-Gi-Oh!Duel Links.
+Hacer una API para mostrar una base de datos NoSQL y poder manipularlo para análisis sobre mazos usados por la comunidad hispanohablante en el videojuego Yu-Gi-Oh! Duel Links.
 
 ## Estructura del Proyecto 📦
 
@@ -41,12 +41,9 @@ Hacer una api para mostrar una base de datos NoSQL y poder manipularlo para aná
 | ndmax | String | Fecha que llegó al rango máximo del torneo |
 
 ## Enlaces de interés
+* [Acceso libre a la API](https://xwid2p.deta.dev/) desplegado con [Deta](https://deta.space/from-cloud)
 * Proyecto basado al [curso de Python desde Cero para Backend por MoureDev by Brais Moure](https://youtu.be/_y9qQZXE24A)
 * [La Guía del curso de Python desde cero de MoureDev](https://github.com/mouredev/Hello-Python)
-* La framework para crear APIs [FastAPI](https://fastapi.tiangolo.com/es/)
-* La base de datos [MongoDB](https://www.mongodb.com/)
-* El desplegue de la API en la nube gracias al sponsor de FastAPI, [Deta](https://deta.space/from-cloud)
-* Software para usar la API, [Postman](https://www.postman.com)
 * [El Videojuego Yu-Gi-Oh! Duel Links](https://www.konami.com/yugioh/duel_links/en/)
 * Los Creadores de Contenido del juego nombrados en la base de datos
 
