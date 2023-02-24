@@ -43,8 +43,8 @@ Hacer una API para mostrar una base de datos NoSQL y poder manipularlo para aná
 ## Enlaces de interés
 * [Acceso libre a la API](https://xwid2p.deta.dev/) desplegado con [Deta](https://deta.space/from-cloud)
 * Documentaciones de la API
-	+ [con Swagger](xwid2p.deta.dev/docs)
-	+ [con Redocly](xwid2p.deta.dev/redoc)
+	+ [con Swagger](https://xwid2p.deta.dev/docs)
+	+ [con Redocly](https://xwid2p.deta.dev/redoc)
 * Proyecto basado al [curso de Python desde Cero para Backend por MoureDev by Brais Moure](https://youtu.be/_y9qQZXE24A)
 * [La Guía del curso de Python desde cero de MoureDev](https://github.com/mouredev/Hello-Python)
 * [El Videojuego Yu-Gi-Oh! Duel Links](https://www.konami.com/yugioh/duel_links/en/)
