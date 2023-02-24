@@ -18,17 +18,17 @@ def search_user(duelist: int):
 
 
 @kcfeb23.get("/", response_model=list[User])
-async def users():
+async def all_duelists():
 	return users_schema(db_client.users.find())
 
 
 @kcfeb23.get("/{duelist}")
-async def user(duelist: int):
+async def searching_by_duelist(duelist: int):
 	return search_user(duelist)
 
 
 @kcfeb23.post("/", response_model=User, status_code=status.HTTP_201_CREATED) 
-async def user(user: User):
+async def create_duelist(user: User):
 	if type(search_user(user.duelist)) == User:
 		raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Ey, el usuario ya existe")
 	
@@ -41,7 +41,7 @@ async def user(user: User):
 
 
 @kcfeb23.delete("/{duelist}", status_code=status.HTTP_204_NO_CONTENT)
-async def user(duelist: int):
+async def drop_duelist(duelist: int):
 	
 	found = db_client.users.find_one_and_delete({"duelist": duelist})
 	
@@ -50,7 +50,7 @@ async def user(duelist: int):
 
 
 @kcfeb23.patch("/", response_model=User)
-async def user(user: UserUpdate):
+async def update_duelist(user: UserUpdate):
 	
 	if not type(search_user(user.duelist)) == User:
 		raise HTTPException(status_code=404, detail="Ese usuario no existe")
