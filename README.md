@@ -41,10 +41,10 @@ Hacer una API para mostrar una base de datos NoSQL y poder manipularlo para aná
 | ndmax | String | Fecha que llegó al rango máximo del torneo |
 
 ## Enlaces de interés
-* [Acceso libre a la API](https://xwid2p.deta.dev/) desplegado con [Deta](https://deta.space/from-cloud)
+* [Acceso libre a la API](https://kcreport-1-j9522234.deta.app) desplegado con [Deta](https://deta.space)
 * Documentaciones de la API
-	+ [con Swagger](https://xwid2p.deta.dev/docs)
-	+ [con Redocly](https://xwid2p.deta.dev/redoc)
+	+ [con Swagger](https://kcreport-1-j9522234.deta.appdocs)
+	+ [con Redocly](https://kcreport-1-j9522234.deta.appredoc)
 * Proyecto basado al [curso de Python desde Cero para Backend por MoureDev by Brais Moure](https://youtu.be/_y9qQZXE24A)
 * [La Guía del curso de Python desde cero de MoureDev](https://github.com/mouredev/Hello-Python)
 * [El Videojuego Yu-Gi-Oh! Duel Links](https://www.konami.com/yugioh/duel_links/en/)
