@@ -43,8 +43,8 @@ Hacer una API para mostrar una base de datos NoSQL y poder manipularlo para aná
 ## Enlaces de interés
 * [Acceso libre a la API](https://kcreport-1-j9522234.deta.app) desplegado con [Deta](https://deta.space)
 * Documentaciones de la API
-	+ [con Swagger](https://kcreport-1-j9522234.deta.appdocs)
-	+ [con Redocly](https://kcreport-1-j9522234.deta.appredoc)
+	+ [con Swagger](https://kcreport-1-j9522234.deta.app/docs)
+	+ [con Redocly](https://kcreport-1-j9522234.deta.app/redoc)
 * Proyecto basado al [curso de Python desde Cero para Backend por MoureDev by Brais Moure](https://youtu.be/_y9qQZXE24A)
 * [La Guía del curso de Python desde cero de MoureDev](https://github.com/mouredev/Hello-Python)
 * [El Videojuego Yu-Gi-Oh! Duel Links](https://www.konami.com/yugioh/duel_links/en/)
