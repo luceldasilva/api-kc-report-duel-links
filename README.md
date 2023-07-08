@@ -1,4 +1,4 @@
-# Api de Recolección de Mazos
+# API de Recolección de Mazos
 
 [![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org/downloads/) [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org) [![](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](https://fastapi.tiangolo.com/es/) [![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com)
 
@@ -45,16 +45,19 @@ Hacer una API para mostrar una base de datos NoSQL y poder manipularlo para aná
 * Documentaciones de la API
 	+ [con Swagger](https://kcreport-1-j9522234.deta.app/docs)
 	+ [con Redocly](https://kcreport-1-j9522234.deta.app/redoc)
-* Proyecto basado al [curso de Python desde Cero para Backend por MoureDev by Brais Moure](https://youtu.be/_y9qQZXE24A)
-* [La Guía del curso de Python desde cero de MoureDev](https://github.com/mouredev/Hello-Python)
+* Proyecto basado en:
+	* [![YouTube Video Views](https://img.shields.io/youtube/views/_y9qQZXE24A?style=for-the-badge&logo=youtube&label=Curso%20de%20PYTHON%20desde%20CERO%20para%20BACKEND)
+](https://youtu.be/_y9qQZXE24A)
+* La Guía del curso de Python desde cero
+	* [![](https://img.shields.io/badge/mouredev-%20hello--python-sucess?style=for-the-badge&logo=github)](https://github.com/mouredev/Hello-Python)
 * [El Videojuego Yu-Gi-Oh! Duel Links](https://www.konami.com/yugioh/duel_links/en/)
 * Los Creadores de Contenido del juego nombrados en la base de datos
 
 	| Variable | Canal |
 	| :---: | :---: |
-	| zerotg | [ZeroTG](https://www.youtube.com/@ZeroTG) |
-	| zephra | [ZephraCarl](https://www.youtube.com/@ZephraCarl) |
-	| bryan | [Bryan Norén](https://www.youtube.com/@BryanNoren) |
+	| zerotg | [![](https://img.shields.io/youtube/channel/subscribers/UCntaHPDpcJgDRNf_W_DETkA?label=Zerotg&logo=youtube&style=for-the-badge)](https://www.youtube.com/@ZeroTG) |
+	| zephra | [![](https://img.shields.io/youtube/channel/subscribers/UCBrumTmd9VbSW0mWesf8czw?label=zephracarl&logo=youtube&style=for-the-badge)](https://www.youtube.com/@ZephraCarl) |
+	| bryan | [![](https://img.shields.io/youtube/channel/subscribers/UCv041WoJ7kTVyXsD4pctvOw?label=bryan%20nor%C3%A9n&logo=youtube&style=for-the-badge)](https://www.youtube.com/@BryanNoren) |
 
 ## License 🧾
 The MIT License (MIT)
